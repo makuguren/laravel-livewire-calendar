@@ -7,7 +7,7 @@ Special thanks to asantibanez/livewire-calendar as this originally was a fork of
 
 ## Preview
 
-![preview](https://github.com/makuguren/livewire-calendar/raw/main/preview.gif)
+![preview](https://github.com/makuguren/laravel-livewire-calendar/raw/main/preview.gif)
 
 ## Installation
 
